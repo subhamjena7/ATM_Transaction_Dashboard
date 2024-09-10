@@ -109,6 +109,12 @@ This section provides a detailed breakdown of revenue performance by state, cate
 #### 25K - 30K:
 - Rent - 284739, Monthly Rev - 2476059, Gross Profit % - 64.2%, Avg Up Time - 93.6%, AVG Total TXN - 95.00, EBILL - 200000
 
+#### 20K - 25K:
+- Rent - 247570, Monthly Rev - 1747372, Gross Profit % - 64.3%, Avg Up Time - 93.7%, AVG Total TXN - 79.16, EBILL - 172923
+
+#### 10K - 20K:
+- Rent - 355820, Monthly Rev - 2435212, Gross Profit % - 64.4%, Avg Up Time - 93.8%, AVG Total TXN - 56.99, EBILL - 385808
+
 ## How the Dashboard Was Created
 
 ### Data Collection
@@ -160,10 +166,3 @@ Trends in transaction data can help in predictive maintenance of ATMs, ensuring 
 ### Financial Performance
 
 Key metrics help in assessing the financial health of the ATM network, guiding decisions to improve profitability.
-
-
-#### 20K - 25K:
-- Rent - 247570, Monthly Rev - 1747372, Gross Profit % - 64.3%, Avg Up Time - 93.7%, AVG Total TXN - 79.16, EBILL - 172923
-
-#### 10K - 20K:
-- Rent - 355820, Monthly Rev - 2435212, Gross Profit % - 64.4%, Avg Up Time - 93.8%, AVG Total TXN - 56.99, EBILL - 385808
