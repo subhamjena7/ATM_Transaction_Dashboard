@@ -109,6 +109,59 @@ This section provides a detailed breakdown of revenue performance by state, cate
 #### 25K - 30K:
 - Rent - 284739, Monthly Rev - 2476059, Gross Profit % - 64.2%, Avg Up Time - 93.6%, AVG Total TXN - 95.00, EBILL - 200000
 
+## How the Dashboard Was Created
+
+### Data Collection
+
+Data was collected from various sources, including ATM transaction logs, maintenance records, and financial reports. The data was cleaned and prepared for analysis using data preprocessing techniques.
+
+### Visualization
+
+The primary tool used for creating this dashboard is **Power BI**.
+
+#### Charts Used:
+
+- **Pie Charts:** Used for visualizing the cost breakdown in the Cost Analysis section.
+- **Bar Charts:** Used for comparing revenue across regions and transaction types by month.
+- **Line Chart:** Used for showing the trend in transactions over time.
+
+## Insights Derived
+
+### Cost Efficiency
+
+By breaking down the costs into specific categories, stakeholders can identify areas where cost-saving measures can be implemented.
+
+### Revenue Streams
+
+Understanding the revenue contributions from different regions helps in strategizing regional focus and improving profitability.
+
+### Transaction Trends
+
+Monitoring the trends in financial and non-financial transactions can help in predicting future transaction volumes and preparing accordingly.
+
+### Performance Metrics
+
+Key performance metrics such as average uptime and gross profit percentage provide a quick snapshot of the overall efficiency and profitability of ATM operations.
+
+## Importance of These Insights
+
+### Operational Efficiency
+
+Identifying cost drivers and optimizing maintenance costs can significantly enhance operational efficiency.
+
+### Strategic Planning
+
+Revenue insights assist in making informed decisions about resource allocation and marketing strategies.
+
+### Predictive Maintenance
+
+Trends in transaction data can help in predictive maintenance of ATMs, ensuring higher uptime and better customer service.
+
+### Financial Performance
+
+Key metrics help in assessing the financial health of the ATM network, guiding decisions to improve profitability.
+
+
 #### 20K - 25K:
 - Rent - 247570, Monthly Rev - 1747372, Gross Profit % - 64.3%, Avg Up Time - 93.7%, AVG Total TXN - 79.16, EBILL - 172923
 
