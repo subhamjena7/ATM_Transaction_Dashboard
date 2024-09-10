@@ -2,10 +2,6 @@
 
 This Power BI dashboard provides a comprehensive overview of ATM transactions, costs, and revenues across different regions. The dashboard is designed to help stakeholders understand the performance, costs, and trends in ATM operations.
 
-## Dashboard Overview
-
-![Dashboard Overview](path_to_dashboard_image)
-
 ## Cost Analysis (ATM Cost and Maintenance)
 
 This section provides a detailed breakdown of ATM maintenance costs. The costs are categorized and visualized using pie charts for the selected month (August). The categories include:
